@@ -1,0 +1,18 @@
+{
+    "_id" : ObjectId("646afae09e3691c026f07595"),
+    "name" : "jitendra",
+    "age" : NumberInt(23),
+    "address" : "bhopal"
+}
+{
+    "_id" : ObjectId("646afb3e9e3691c026f07596"),
+    "name" : "surya",
+    "age" : NumberInt(23),
+    "address" : "jhansi"
+}
+{
+    "_id" : ObjectId("646afb3e9e3691c026f07597"),
+    "name" : "piyush",
+    "age" : NumberInt(24),
+    "address" : "mumbai"
+}
